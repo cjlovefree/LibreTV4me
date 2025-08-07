@@ -130,6 +130,7 @@ npm run dev
 LibreTV 支持标准的苹果 CMS V10 API 格式。添加自定义 API 时需遵循以下格式：
 - 搜索接口: `https://example.com/api.php/provide/vod/?ac=videolist&wd=关键词`
 - 详情接口: `https://example.com/api.php/provide/vod/?ac=detail&ids=视频ID`
+- js/config.js 里面配置采集网站api接口
 
 **添加 CMS 源**:
 1. 在设置面板中选择"自定义接口"
