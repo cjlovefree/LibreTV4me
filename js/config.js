@@ -114,6 +114,24 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
+    huanggua_av: {
+       api: "https://www.avre06.com/api.php/provide/vod",
+       name: "黄瓜资源",
+       detail: "http://avre01.com",
+       adult: true
+    },
+    laosebi_av: {
+      api: "https://apilsbzy1.com/api.php/provide/vod",
+      name: "老色逼资源",
+      detail: "https://laosebizy.com",
+      adult: true
+    },
+    senlin_av: {
+      api: "https://slapibf.com/api.php/provide/vod",
+      name: "森林资源",
+      detail: "https://senlinzy.com",
+      adult: true
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
