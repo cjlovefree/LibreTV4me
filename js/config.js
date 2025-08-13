@@ -148,7 +148,7 @@ const API_SITES = {
         adult: true
     },
     r155: {
-        api: 'https://155api.com/api.php/provide/vod',
+        api: 'https://155api.com/api.php/provide/vod/?ac=list',
         name: '155资源',
         adult: true
     },
