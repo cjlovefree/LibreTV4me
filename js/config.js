@@ -182,6 +182,24 @@ const API_SITES = {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
         name: 'U酷资源'
     },
+    huanggua_av: {
+       api: "https://www.avre06.com/api.php/provide/vod",
+       name: "黄瓜资源",
+       detail: "http://avre01.com",
+       adult: true
+    },
+    laosebi_av: {
+      api: "https://apilsbzy1.com/api.php/provide/vod",
+      name: "老色逼资源",
+      detail: "https://laosebizy.com",
+      adult: true
+    },
+    senlin_av: {
+      api: "https://slapibf.com/api.php/provide/vod",
+      name: "森林资源",
+      detail: "https://senlinzy.com",
+      adult: true
+    },
 };
 
 // 定义合并方法
